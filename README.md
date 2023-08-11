@@ -6,6 +6,7 @@ I have 5 years+ of working experience using Javascript, Typescript, Nuxt.js, Vue
 
 Beyond digital space, I am a recreational mountaineer! I love climbing mountains, exploring waterfalls, and camping under the stars.
 
+You can check my website portfolio https://ponnex.dev/ 🚧 (Work in Progress)
 <!--
 **ponnex/ponnex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
