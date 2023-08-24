@@ -1,6 +1,6 @@
 ### Hi, I'm Francis! 👋
 
-A solution-oriented front-end developer with experience building web applications in industries such as Airlines, Banks, Automotive, E-commerce, Marketplace, Arts and Museums, Events, and NFTs using cutting-edge modern frameworks and technologies.
+A multi-disciplinary front-end developer who loves building impactful stuff with experience building web applications in industries such as Airlines, Banks, Automotive, E-commerce, Marketplace, Arts and Museums, Events, and NFTs using cutting-edge modern frameworks and technologies.
 
 I have 5 years+ of working experience using Javascript, Typescript, Nuxt.js, Vue.js, React, CSS/SCSS/Sass/Less, Tailwind CSS, Git/Version control, Node.js, Firebase, Google APIs, and others as my stack for making awesome websites! I'm passionate about learning new technologies, design, and digital products. 
 
